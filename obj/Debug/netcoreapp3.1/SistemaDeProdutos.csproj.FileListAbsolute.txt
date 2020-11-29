@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDeProdutos\bin\Debug\netcoreapp3.1\SistemaDeProdutos.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDeProdutos\bin\Debug\netcoreapp3.1\SistemaDeProdutos.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDeProdutos\bin\Debug\netcoreapp3.1\SistemaDeProdutos.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDeProdutos\bin\Debug\netcoreapp3.1\SistemaDeProdutos.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDeProdutos\bin\Debug\netcoreapp3.1\SistemaDeProdutos.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDeProdutos\bin\Debug\netcoreapp3.1\SistemaDeProdutos.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDeProdutos\obj\Debug\netcoreapp3.1\SistemaDeProdutos.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDeProdutos\obj\Debug\netcoreapp3.1\SistemaDeProdutos.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDeProdutos\obj\Debug\netcoreapp3.1\SistemaDeProdutos.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDeProdutos\obj\Debug\netcoreapp3.1\SistemaDeProdutos.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDeProdutos\obj\Debug\netcoreapp3.1\SistemaDeProdutos.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDeProdutos\obj\Debug\netcoreapp3.1\SistemaDeProdutos.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\SistemaDeProdutos\obj\Debug\netcoreapp3.1\SistemaDeProdutos.genruntimeconfig.cache
